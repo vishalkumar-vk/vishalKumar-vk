@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am a passionate individual dedicated to enhancing my technical skills and expertise in the world of technology. My journey has led me to master programming languages like C++ and Python, empowering me to create efficient and powerful applications. ond the realm of back-end development, I am well-versed in web development, particularly in the MERN stack, which includes MongoDB, Express, React, and Node.js. This proficiency has allowed me to create modern, dynamic, and user-friendly web application</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumar-vk&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumar-vk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
