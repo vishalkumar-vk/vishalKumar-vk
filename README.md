@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">I am dedicated to enhancing my technical skills and expertise in the world of technology. My journey has led me to master programming languages like C++ and Python, empowering me to create efficient and powerful applications. ond the realm of back-end development, I am well-versed in web development, particularly in the MERN stack, which includes MongoDB, Express, React, and Node.js. This proficiency has allowed me to create modern, dynamic, and user-friendly web application</h3>
+<h3 align="center">I am dedicated to enhance my technical skills and expertise in the world of technology. My journey has led me to master programming languages like C++ and Python, empowering me to create efficient and powerful applications. In the realm of front-end development, I am well-versed in web development, particularly in the reactjs. I also have  hands-on experience with DevOps tools like git, aws, docker, kubernetes, jenkins and terraform. This proficiency has allowed me to create modern, dynamic, and user-friendly web applications </h3>
 <p align="center">
   <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
   </p>
